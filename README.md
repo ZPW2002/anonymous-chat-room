@@ -1,5 +1,5 @@
 # anonymous-chat-room
- 一个基于udp协议实现的匿名聊天室
+ 一个基于udp协议实现的匿名聊天室（可打包）
 
 窗体采用的是tkinter
 
